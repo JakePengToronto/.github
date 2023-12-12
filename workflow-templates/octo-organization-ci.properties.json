@@ -1,13 +1,7 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI starter workflow.",
-    "iconName": "icon.png",
-    "categories": [
-        "Go"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-    ]
+  "name": "Jake's starter workflow Workflow",
+  "description": "Jake's starter workflow CI starter workflow.",
+  "iconName": "icon.png",
+  "categories": ["Go"],
+  "filePatterns": ["package.json$", "^Dockerfile", ".*\\.md$"]
 }
